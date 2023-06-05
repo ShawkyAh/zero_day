@@ -1,2 +1,1 @@
-[link][ssh 871931ccb193@871931ccb193.8084a45f.alx-cod.online]
-
+[link][[link] [871931ccb193@871931ccb193.8084a45f.alx-cod.online]]
